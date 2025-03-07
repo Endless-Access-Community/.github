@@ -1,6 +1,6 @@
 # Endless Game Making
 
-Welcome to the GitHub organization for the Endless Game Making community. Through mentorship, open-source contributions, and game-based learning, we aim to catalyze real, meaningful change in our field, shaping future-ready skills and redefining how people engage with game development.
+Welcome to the Endless Game Making community. Through mentorship, open-source contributions, and game-based learning, we aim to catalyze real, meaningful change in our field, shaping future-ready skills and redefining how people engage with game development.
 
 We invite you to join, stick around, contribute, and share. 🧡
 
