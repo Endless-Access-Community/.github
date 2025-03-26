@@ -1,16 +1,19 @@
 # Contributor Covenant Code of Conduct
 
+[Last updated 2025-03-26][history]
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
+community a safe, harassment-free experience for everyone regardless of age, 
+body size, visible or invisible disability, ethnicity, sex characteristics, 
+gender identity and expression, level of experience, education, socio-economic 
+status, nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+diverse, inclusive, and healthy learning community while explicitly safeguarding 
+minors and vulnerable adults.
 
 ## Our Standards
 
@@ -27,14 +30,17 @@ community include:
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
+* Text, images, or links featuring nudity, sexualized language or imagery, 
+  violence, or graphically disturbing content
+* Sexual attention or advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Spam, self-promotion of commercial services or products, and selling or 
+  trading within community spaces
+* Recording or publishing others' private information or data such as a physical 
+  or email address, phone number, identifying photo, or voice recording
+* Other conduct which could reasonably be considered inappropriate in an
+  educational or professional setting
 
 ## Enforcement Responsibilities
 
@@ -52,16 +58,16 @@ decisions when appropriate.
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
+Examples of representing our community include using an official email address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-community+conduct@endlessos.org.
-All complaints will be reviewed and investigated promptly and fairly.
+reported to the community leaders responsible for enforcement via platform 
+reporting tools or by emailing community+conduct@endlessos.org. All reports will
+be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
@@ -70,6 +76,15 @@ reporter of any incident.
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
+
+### 0. Proactive Redaction
+
+**Community Impact**: Any content that could pose an immediate risk to the
+safety of the community, including harmful text or image content.
+
+**Consequence**: Whenever possible, automated tooling or human review will help
+determine safe content and proactively redact harmful content before shared
+with the wider community.
 
 ### 1. Correction
 
@@ -126,3 +141,5 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+[history]: https://github.com/Endless-Game-Making/.github/commits/main/CODE_OF_CONDUCT.md
