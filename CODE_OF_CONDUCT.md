@@ -77,14 +77,14 @@ reporter of any incident.
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
-### 0. Proactive Redaction
+### 0. Prevention
 
-**Community Impact**: Any content that could pose an immediate risk to the
-safety of the community, including harmful text or image content.
+**Community Impact**: Any content or interaction that could pose an immediate 
+risk to the safety of the community, including harmful text or image content.
 
 **Consequence**: Whenever possible, automated tooling or human review will help
-determine safe content and proactively redact harmful content before shared
-with the wider community.
+determine safe content and prevent or proactively redact harmful content before
+shared with the wider community.
 
 ### 1. Correction
 
