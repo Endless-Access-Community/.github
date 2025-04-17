@@ -2,7 +2,7 @@
 
 **Play. Contribute. Level up.**
 
-We’re building a game-making community around open source video games. **Players** experience unique worlds full of wonder and lore. **Contributors** build their own quests into a game that anyone can play. **Learners** level up their skills and knowledge in a real world open source environment.
+We’re building a game-making community around open source video games. **Players** experience unique worlds full of wonder and lore. **Contributors** build their own quests into games that anyone can play. **Learners** level up their skills and knowledge in a real world open source environment.
 
 We invite you to join, stick around, contribute, and share. 🧡
 
