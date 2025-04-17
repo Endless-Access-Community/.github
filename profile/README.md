@@ -20,4 +20,4 @@ We're guided by the following principles:
 - **Learning is Non-Linear** – Embrace flexibility and iteration
 
 [Code of Conduct]: https://github.com/Endless-Game-Making/.github/blob/main/CODE_OF_CONDUCT.md
-[Discord]: https://discord.gg/4HmSVccyvP
+[Discord]: https://discord.gg/joinendless
