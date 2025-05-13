@@ -1,6 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-[Last updated 2025-04-07][history]
+[Last updated 2025-05-13][history] | [En Español](CODE_OF_CONDUCT.es.md)
 
 ## Our Pledge
 
