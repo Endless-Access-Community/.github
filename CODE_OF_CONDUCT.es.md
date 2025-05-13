@@ -1,6 +1,6 @@
-# Código de Conducta convenido para Contribuyentes
+# Código de Conducta
 
-[Última actualización][history] | [En Inglés](CODE_OF_CONDUCT.md)
+[Última actualización 2025-05-13][history] | [En Inglés](CODE_OF_CONDUCT.md)
 
 ## Nuestro Compromiso
 
