@@ -1,6 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-[Last updated 2025-04-07][history]
+[Last updated 2025-05-13][history] | [En Español](CODE_OF_CONDUCT.es.md)
 
 ## Our Pledge
 
@@ -74,8 +74,9 @@ reporter of any incident.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Community leaders will follow these **Community Impact Guidelines** in 
+determining the consequences for any action they deem in violation of this Code
+of Conduct:
 
 ### 0. Prevention
 
