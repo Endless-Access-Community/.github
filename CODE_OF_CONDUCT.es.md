@@ -1,42 +1,41 @@
-
 # Código de Conducta convenido para Contribuyentes
 
-## Nuestro compromiso
+[Última actualización][history] | [En Inglés](CODE_OF_CONDUCT.md)
 
-Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, casta, color, religión, o identidad u orientación sexual.
+## Nuestro Compromiso
 
-Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
+Nosotros, como miembros, colaboradores y líderes, nos comprometemos a hacer de la participación en nuestra comunidad una experiencia segura y libre de acoso para todas las personas, sin importar su edad, tipo de cuerpo, discapacidad visible o invisible, etnia, características sexuales, identidad y expresión de género, orientación sexual, nivel de experiencia, educación, condición socioeconómica, nacionalidad, apariencia personal o religión.
 
-## Nuestros estándares
+Nos comprometemos a actuar e interactuar de manera que fomenten una comunidad de aprendizaje abierta, acogedora, diversa, inclusiva y saludable, protegiendo explícitamente a menores y adultos en situación de vulnerabilidad.
 
-Ejemplos de comportamientos que contribuyen a crear un ambiente positivo para nuestra comunidad:
+## Nuestras Normas
 
-* Demostrar empatía y amabilidad ante otras personas
-* Respeto a diferentes opiniones, puntos de vista y experiencias
-* Dar y aceptar adecuadamente retroalimentación constructiva
-* Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia
-* Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general
+* Ejemplos de comportamientos que contribuyen a un entorno positivo para nuestra comunidad incluyen:
+* Mostrar empatía y amabilidad hacia otras personas
+* Respetar las opiniones, puntos de vista y experiencias diferentes
+* Ofrecer y aceptar con gracia retroalimentación constructiva
+* Asumir la responsabilidad, disculparse con quienes se hayan visto afectados por nuestros errores y aprender de la experiencia
+* Enfocarse en lo que es mejor no solo para nosotros como individuos, sino para la comunidad en general
 
-Ejemplos de comportamiento inaceptable:
+Ejemplos de comportamientos inaceptables incluyen:
 
-* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o
-  atenciones sexuales de cualquier tipo
-* Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
-* El acoso en público o privado
-* Publicar información privada de otras personas, tales como direcciones físicas o de correo
-  electrónico, sin su permiso explícito
-* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
-  entorno profesional
+* Texto, imágenes o enlaces que presenten desnudez, lenguaje o imágenes sexualizadas, violencia o contenido gráficamente perturbador
+* Atención o insinuaciones sexuales de cualquier tipo
+* Provocaciones, insultos o comentarios despectivos, y ataques personales o políticos
+* Acoso público o privado
+* Spam, autopromoción de servicios o productos comerciales, y compraventa dentro de los espacios comunitarios
+* Grabar o publicar información o datos privados de otras personas, como direcciones físicas o de correo electrónico, números telefónicos, fotos identificativas o grabaciones de voz
+* Cualquier otra conducta que razonablemente se considere inapropiada en un entorno educativo o profesional
 
-## Aplicación de las responsabilidades
+## Responsabilidades de Aplicación
 
-Los administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
+Los líderes de la comunidad son responsables de aclarar y hacer cumplir nuestras normas de conducta aceptable, y tomarán las acciones correctivas adecuadas y justas en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
 
-Los administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.
+Tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, contribuciones de código, ediciones de wikis, reportes u otras colaboraciones que no se alineen con este Código de Conducta, y comunicarán las razones de sus decisiones de moderación cuando sea apropiado.
 
 ## Alcance
 
-Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
+Este Código de Conducta se aplica a todos los espacios comunitarios, y también aplica cuando una persona representa oficialmente a la comunidad en espacios públicos. Ejemplos de representación incluyen el uso de un correo electrónico oficial, publicaciones en redes sociales oficiales, o actuar como representante designado en un evento presencial o en línea.
 
 ## Aplicación
 
@@ -83,3 +82,5 @@ Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplic
 
 Para respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en
 https://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations
+
+[history]: https://github.com/Endless-Game-Making/.github/commits/main/CODE_OF_CONDUCT.es.md
