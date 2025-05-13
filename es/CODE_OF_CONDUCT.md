@@ -1,6 +1,6 @@
 # Código de Conducta
 
-[Última actualización 2025-05-13][history] | [En Inglés](CODE_OF_CONDUCT.md)
+[Última actualización 2025-05-13][history] | [English](../CODE_OF_CONDUCT.md)
 
 ## Nuestro Compromiso
 

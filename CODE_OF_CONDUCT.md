@@ -1,6 +1,6 @@
 # Code of Conduct
 
-[Last updated 2025-05-13][history] | [En Español](CODE_OF_CONDUCT.es.md)
+[Last updated 2025-05-13][history] | [En Español](es/CODE_OF_CONDUCT.md)
 
 ## Our Pledge
 
