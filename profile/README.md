@@ -1,8 +1,6 @@
 # Endless Access Community
 
-**Play. Contribute. Level up.**
-
-We’re building a game-making community around open source video games. **Players** experience unique worlds full of wonder and lore. **Contributors** build their own quests into games that anyone can play. **Learners** level up their skills and knowledge in a real world open source environment.
+We’re building a game-making community around open source video games—one where peer-to-peer mentorship, feedback, and shared learning are the norm. Together we’ll build not just skills, but confidence, friendships, and portfolios.
 
 We invite you to join, stick around, contribute, and share. 🧡
 
