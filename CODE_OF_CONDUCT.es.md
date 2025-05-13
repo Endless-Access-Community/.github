@@ -39,37 +39,43 @@ Este Código de Conducta se aplica a todos los espacios comunitarios, y también
 
 ## Aplicación
 
-Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a los administradores de la comunidad responsables del cumplimiento a través de [INSERTAR MÉTODO DE CONTACTO]. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
+Los casos de comportamiento abusivo, acosador o inaceptable pueden reportarse a los líderes de la comunidad responsables de su cumplimiento mediante las herramientas de reporte de la plataforma o enviando un correo a: community+conduct@endlessos.org. Todos los reportes serán revisados e investigados de manera pronta y justa.
 
-Todos los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.
+Todos los líderes comunitarios están obligados a respetar la privacidad y seguridad de quien reporte un incidente.
 
 ## Guías de Aplicación
 
-Los administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:
+Los líderes de la comunidad seguirán estas Guías de Impacto Comunitario para determinar las consecuencias de cualquier acción que consideren una violación a este Código de Conducta:
+
+### 0. Prevención
+
+**Impacto en la Comunidad**: Cualquier contenido o interacción que pueda representar un riesgo inmediato para la seguridad de la comunidad, incluyendo texto o imágenes dañinas.
+
+**Consecuencia**: Siempre que sea posible, se utilizarán herramientas automatizadas o revisión humana para detectar contenido seguro y prevenir o eliminar proactivamente contenido dañino antes de que se comparta con la comunidad.
 
 ### 1. Corrección
 
-**Impacto en la Comunidad**: El uso de lenguaje inapropiado u otro comportamiento considerado no profesional o no acogedor en la comunidad.
+**Impacto en la Comunidad**: Uso de lenguaje inapropiado u otra conducta considerada no profesional o no bienvenida en la comunidad.
 
-**Consecuencia**: Un aviso escrito y privado por parte de los administradores de la comunidad, proporcionando claridad alrededor de la naturaleza de este incumplimiento y una explicación de por qué el comportamiento es inaceptable. Una disculpa pública podría ser solicitada.
+**Consecuencia**: Advertencia privada y escrita por parte de los líderes de la comunidad, brindando claridad sobre la naturaleza de la violación y una explicación de por qué la conducta fue inapropiada. Se puede solicitar una disculpa pública.
 
-### 2. Aviso
+### 2. Advertencia
 
-**Impacto en la Comunidad**: Un incumplimiento causado por un único incidente o por una cadena de acciones.
+**Impacto en la Comunidad**: Una violación a través de un incidente único o una serie de acciones.
 
-**Consecuencia**: Un aviso con consecuencias por comportamiento prolongado. No se interactúa con las personas involucradas, incluyendo interacción no solicitada con quienes se encuentran aplicando el Código de Conducta, por un periodo especificado de tiempo. Esto incluye evitar las interacciones en espacios de la comunidad, así como a través de canales externos como las redes sociales. Incumplir estos términos puede conducir a una expulsión temporal o permanente.
+**Consecuencia**: Advertencia con consecuencias si el comportamiento continúa. No se permite interacción con las personas involucradas, incluyendo interacción no solicitada con quienes están aplicando el Código de Conducta, durante un periodo de tiempo determinado. Esto incluye evitar interacciones tanto en los espacios de la comunidad como en canales externos como redes sociales. Violar estos términos puede resultar en una suspensión temporal o permanente.
 
-### 3. Expulsión temporal
+### 3. Suspensión Temporal
 
-**Impacto en la Comunidad**: Una serie de incumplimientos de los estándares de la comunidad, incluyendo comportamiento inapropiado continuo.
+**Impacto en la Comunidad**: Una violación grave de las normas comunitarias, incluyendo conducta inapropiada sostenida.
 
-**Consecuencia**: Una expulsión temporal de cualquier forma de interacción o comunicación pública con la comunidad durante un intervalo de tiempo especificado. No se permite interactuar de manera pública o privada con las personas involucradas, incluyendo interacciones no solicitadas con quienes se encuentran aplicando el Código de Conducta, durante este periodo. Incumplir estos términos puede conducir a una expulsión permanente.
+**Consecuencia**: Suspensión temporal de cualquier tipo de interacción o comunicación pública con la comunidad por un periodo de tiempo determinado. No se permite ningún tipo de interacción pública o privada con las personas involucradas, incluyendo interacción no solicitada con quienes están aplicando el Código de Conducta. Violar estos términos puede resultar en una expulsión permanente.
 
-### 4. Expulsión permanente
+### 4. Expulsión Permanente
 
-**Impacto en la Comunidad**: Demostrar un patrón sistemático de incumplimientos de los estándares de la comunidad, incluyendo conductas inapropiadas prolongadas en el tiempo, acoso de individuos, o agresiones o menosprecio a grupos de individuos.
+**Impacto en la Comunidad**: Demostrar un patrón de violaciones a las normas comunitarias, incluyendo conducta inapropiada sostenida, acoso a una persona o agresión/desacreditación hacia grupos de personas.
 
-**Consecuencia**: Una expulsión permanente de cualquier tipo de interacción pública con la comunidad del proyecto.
+**Consecuencia**: Expulsión permanente de cualquier tipo de interacción pública dentro de la comunidad.
 
 ## Atribución
 
