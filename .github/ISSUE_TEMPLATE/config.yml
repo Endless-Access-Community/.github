@@ -1,0 +1,16 @@
+contact_links:
+  - name: Discuss Threadbare
+    about: See previously-asked questions about Threadbare, and ask your own
+    url: https://github.com/endlessm/threadbare/discussions/categories/q-a
+
+  - name: Chat with the community
+    about: Join us on Discord
+    url: https://discord.gg/joinendless
+
+  - name: Watch live streams
+    about: Catch previous and upcoming streams on YouTube
+    url: https://www.youtube.com/@EndlessAccess/streams
+
+  - name: Learn about Endless Access
+    about: Visit our website
+    url: https://www.endlessos.org/game-making
